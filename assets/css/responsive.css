@@ -1,0 +1,159 @@
+.navbar-toggler{
+    background-color: #fff !important;
+}
+@media only screen and (min-width: 280px) and (max-width: 599px) {
+    .cart-content-right {
+        padding-bottom: 5px;
+    }
+    .megamenu>.row [class*="col-"] {
+        padding: 0;
+    }
+    .menu-area-main .megamenu .men-cat {
+        padding: 0 15px;
+    }
+    .menu-area-main .megamenu .women-cat {
+        padding: 0 15px;
+    }
+    .menu-area-main .megamenu .el-cat {
+        padding: 0 15px;
+    }
+    .mean-container .mean-nav ul li a {
+        padding: 1em 4%;
+        width: 92%;
+    }
+    .mean-container .mean-nav ul li li a {
+        width: 90%;
+        padding: 1em 5%;
+    }
+    .mean-container .sub-full.megamenu-categories ol li a {
+        padding: 5px 0;
+        text-transform: capitalize;
+        width: 100%;
+    }
+    .megamenu .sub-full.megamenu-categories .women-box .banner-up-text a {
+        width: auto;
+        border: none;
+        float: none;
+    }
+    .menu-area-main {
+        height: 45px;
+        overflow-y: auto;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        top: 0;
+    }
+}
+
+@media (max-width: 575px) {
+    .last { display: none; }
+    .carousel-caption {display: none;} 
+.header { padding-top: 0; }
+.btn-primary {max-width: 126px;
+margin-right: 2px;
+font-size: 14px;}
+.banner-main .carousel-caption h1 {font-size: 30px; line-height: 38px;}
+.titlepage h2 {
+    font-size: 27px;
+}
+.sporrt_text{ 
+     font-size: 23px; 
+     margin-top: 0;
+}
+.main {
+    width: 100%;
+}
+.btn_main {
+    margin-top: 30px;
+    padding-bottom: 30px;
+    width: 55%;}
+
+#main_slider a.carousel-control-prev {
+    position: absolute;
+    left: 175px;
+    top: 90%;
+    display: none;
+}
+
+#main_slider a.carousel-control-next {
+    position: absolute;
+    left: 236px;
+    top: 90%;
+    display: none;
+}
+
+.titlepage h2::after {
+    width: 93%;
+}
+    .about-box .titlepage h2::after {
+        width: 238px;
+        right: -50px;
+    }
+ .Gallery .titlepage h2 {
+    font-size: 47px;
+ }
+    .Gallery .titlepage h2::after {
+        width: 89%;
+    }
+
+    .paddimg-right {
+    padding-right: 15px;
+}
+.paddimg-left {
+    padding-left: 15px;
+}
+.Nursery-img .text-box h3 {
+font-size: 23px;
+padding: 30px 14px;
+
+}
+
+.contact .titlepage h2::after {
+
+    left: -8px;
+    width: 281px;
+}
+.footer .headinga span {
+font-size: 16px;
+
+}
+.menu-bottom {
+    margin-bottom: 45px;
+}
+ul.link li {
+
+    padding: 8px 12px;
+    padding-bottom: 0; 
+}
+
+
+.navbar-toggler { background-color: #fff !important; }
+.logo { width: 50%; }
+.header_section { background-size: cover; }
+.banner_section { background-size: cover; padding-top: 20px; }
+.furniture_text { font-size: 50px; }
+.there_text { width: 100%; font-size: 15px;}
+.contact_bt_main { width: 150px; }
+.contact_bt { margin-top: 20px; }
+.dummy_text { font-size: 15px; }
+.services_section2 { padding-top: 30px; }
+.icon_1 { padding-top: 30px; }
+.read_bt_main { width: 150px; }
+.lorem_text { padding-top: 0; font-size: 15px; }
+.read_bt1 { width: 150px; margin-top: 20px; }
+.image_1 { padding-top: 50px; } 
+.get_bt_main { width: 150px; }
+.get_bt { margin-top: 20px; }
+.client_text { font-size: 22px; }
+.client_1 { width: 100%; }
+.client_2 { width: 100%; }
+.quote_icon { width: 150px; bottom: -8px; }
+.loksans_text { padding-top: 20px; } 
+.carousel-indicators { display: none; } 
+.icon { font-size: 70px; }
+.dololr_text { font-size: 16px; }
+.contact_section { background-size: cover; }
+.input-group { width: 290px; } 
+.container_main1::after { width: 98%; height: 93%; }
+#costum_slider a.carousel-control-next { display: none; }
+#costum_slider a.carousel-control-prev { display: none; }
+}
